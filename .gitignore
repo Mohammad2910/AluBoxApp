@@ -1,3 +1,6 @@
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/deploymentTargetDropDown.xml
 *.iml
 .gradle
 /local.properties
